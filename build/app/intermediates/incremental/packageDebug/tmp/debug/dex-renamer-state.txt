@@ -1,0 +1,4 @@
+#Sun Mar 31 17:43:21 GMT-12:00 2024
+base.0=C\:\\Users\\RNW\\StudioProjects\\e_kharido\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
