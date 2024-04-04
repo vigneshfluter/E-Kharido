@@ -10,7 +10,6 @@ This is a simple Flutter application for an e-commerce platform. It consists of 
 
 To run this application, you need to have Flutter installed on your system. Once Flutter is installed, clone this repository and navigate to its directory in your terminal. Then run the following command:
 
-```bash
 flutter run
 [Screenshot_20240331_182423](https://github.com/vigneshfluter/E-Kharido/assets/149999841/ca38b342-ed8e-4b22-a2e1-e216f056a0a5)
 [Screenshot_20240331_182508](https://github.com/vigneshfluter/E-Kharido/assets/149999841/1077d186-c123-49a6-9733-69b907674761)
